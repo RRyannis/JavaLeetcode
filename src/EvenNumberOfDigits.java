@@ -1,4 +1,4 @@
-public class evenNumberOfDigits {
+public class EvenNumberOfDigits {
     class Solution {
         public int findNumbers(int[] nums) {
             int evenDigitCount = 0;
