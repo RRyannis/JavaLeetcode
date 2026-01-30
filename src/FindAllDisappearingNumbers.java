@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 
+//TBA: there's a way to solve this in O(N) with a left, right and current pointer
 public class FindAllDisappearingNumbers {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> result = new ArrayList<>();
